@@ -21,4 +21,7 @@ a research fellow at department of medicine at Harvard Medical School & Brigham 
 - 📫 How to reach me: please find me through email: haoxu0303@gmail.com or wechat:gaingod66.
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu
+
+<div id="profile" align="center">
+  <img src="[https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue](https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu)" alt=""
+</div>
