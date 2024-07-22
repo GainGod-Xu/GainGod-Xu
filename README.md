@@ -28,9 +28,9 @@
   </ul>
   <h3>:fire: My Stats :</h3>
   <div id="stats" align="center" style="display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats" style="width: 10%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats" style="width: 50%;"/>
     <a href="https://github.com/GainGod-Xu">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 10%;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 40%;"/>
     </a>
    </div>
 
