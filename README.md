@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am Hao Xu, a research fellow at department of medicine at Harvard Medical School & Brigham and Women's Hospital.
 - 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery, medical image diagnosis. 
 - 🌱 I’m currently learning multiple instance learning on whole slide images.
