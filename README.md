@@ -15,7 +15,7 @@ Homepage:
 ## Stats
 
 [![Hao Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GainGod-Xu&card_width=495)](https://github.com/GainGod-Xu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=donut&card_width=495)](https://github.com/GainGod-Xu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&card_width=495)](https://github.com/GainGod-Xu/github-readme-stats)
 
 
 ## Follow Me
