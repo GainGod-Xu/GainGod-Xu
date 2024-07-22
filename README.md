@@ -3,14 +3,16 @@
 
 I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
 
-I obtained my Ph.D. degree in Computational and Organic Chemistry from Boston College in Dec. 2022. I also got an M.S. degree in Computer Science (OMSCS) from Georgia Tech in Aug. 2022, as well as M.S. degress in Computational Chemistry from Southern Methodist University in May 2017.
-
 - 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery and medical image diagnosis.
 - 🌱 I’m also learning multiple instance learning on whole slide images.
 -  📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.
-Feel free to contact me for research collaborations.
 
-Homepage: 
+Feel free to contact me for research collaborations!
+
+Past Experiences: 
+
+I obtained my Ph.D. degree in Computational and Organic Chemistry from Boston College in Dec. 2022. I also got an M.S. degree in Computer Science (OMSCS) from Georgia Tech in Aug. 2022, as well as M.S. degress in Computational Chemistry from Southern Methodist University in May 2017.
+
 
 ## Stats
 
