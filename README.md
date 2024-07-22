@@ -1,7 +1,7 @@
 
 ## About me
 
-##Current Position
+## Current Position
 I am Hao Xu, a research fellow at the department of medicine at Harvard Medical School & Brigham and Women's Hospital.
 
 - 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery and medical image diagnosis.
