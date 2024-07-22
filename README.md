@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt=""/>
+
+
+
 I am Hao Xu, 
 a research fellow at department of medicine at Harvard Medical School & Brigham and Women's Hospital.
 
