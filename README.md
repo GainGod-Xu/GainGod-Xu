@@ -9,10 +9,10 @@ I am Hao Xu, a research fellow at the department of medicine at Harvard Medical 
 - 📫 Feel free to contact me for research collaborations: email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.
 
 ### Past Experiences
-- Postdoctoral Associate in Machine Learning at the department of computer science at Brandeis University from Apr. 2023 to May 2024. 
-- Ph.D. degree in Computational and Organic Chemistry from Boston College in Dec. 2022. 
-- M.S. degree in Computer Science (OMSCS) from Georgia Tech in Aug. 2022, 
-- M.S. degress in Computational Chemistry from Southern Methodist University in May 2017.
+- Postdoctoral Associate in Machine Learning at the department of computer science at Brandeis University from 04/2023 to 05/2024. 
+- Ph.D. degree in Computational and Organic Chemistry from Boston College in 12/2022. 
+- M.S. degree in Computer Science (OMSCS) from Georgia Tech in 08/2022, 
+- M.S. degress in Computational Chemistry from Southern Methodist University in 05/2017.
 
 ## Stats
 
