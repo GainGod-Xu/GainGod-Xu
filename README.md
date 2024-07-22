@@ -25,3 +25,4 @@ a research fellow at department of medicine at Harvard Medical School & Brigham 
 <div id="profile" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt=""
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
