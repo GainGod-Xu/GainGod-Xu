@@ -15,8 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt=""
 </div>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <div align="left">
-  <h3>About Me: </h3>
+  <h3><i class="fas fa-user"></i> About Me: </h3>
   <p>
     I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
   </p>
