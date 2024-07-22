@@ -11,8 +11,8 @@ I am Hao Xu, a research fellow at the department of medicine at Harvard Medical 
 ### Past Experiences
 - Postdoctoral Associate in Machine Learning at the department of computer science at Brandeis University from 04/2023 to 05/2024. 
 - Ph.D. degree in Computational and Organic Chemistry from Boston College in 12/2022. 
-- M.S. degree in Computer Science from Georgia Tech in 08/2022, 
-- M.S. degress in Computational Chemistry from Southern Methodist University in 05/2017.
+- M.S. degree in Computer Science from Georgia Tech in 08/2022. 
+- M.S. degree in Computational Chemistry from Southern Methodist University in 05/2017.
 
 ## Stats
 
