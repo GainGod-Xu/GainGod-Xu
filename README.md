@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt=""/>
-
+<div id="profile" align="center">
+  <img src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt=""
+</div>
 
 
 I am Hao Xu, 
