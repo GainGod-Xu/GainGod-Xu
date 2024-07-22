@@ -16,7 +16,7 @@
 </div>
 
 <div align="left">
-  <h3>About Me</h3>
+  <h3>About Me: </h3>
   <p>
     I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
   </p>
@@ -26,7 +26,7 @@
     <li>👯 I’m looking to collaborate on multiple instance learning, LLM, CV, and Generative Models.</li>
     <li>📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.</li>
   </ul>
-  <h3>:fire: My Stats :</h3>
+  <h3>:fire: My Stats:</h3>
   <div id="stats" align="center" style="display: flex; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats" style="width: 50%;"/>
      <br>
