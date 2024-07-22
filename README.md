@@ -19,7 +19,7 @@
  
 
 <div align="left">
-  <h3><i class="fas fa-user"></i> About Me: </h3>
+  <h3><i class='fas fa-user-graduate'></i> About Me: </h3>
   <p>
     I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
   </p>
