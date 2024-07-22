@@ -15,19 +15,24 @@
   <img src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt=""
 </div>
 
-### About Me
-I am Hao Xu, 
-a research fellow at department of medicine at Harvard Medical School & Brigham and Women's Hospital.
-
-- 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery, medical image diagnosis. 
-- 🌱 I’m also learning multiple instance learning on whole slide images.
-- 👯 I’m looking to collaborate on multiple instance learning | LLM | CV | Generative Models.
-- 📫 How to reach me: please find me through email: haoxu0303@gmail.com or wechat:gaingod66.
-
-### :fire: My Stats :
-
-<div id="profile" align="center">
+<div align="left">
+  <h3>About Me</h3>
+  <p>
+    I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
+  </p>
+  <ul>
+    <li>🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery and medical image diagnosis.</li>
+    <li>🌱 I’m also learning multiple instance learning on whole slide images.</li>
+    <li>👯 I’m looking to collaborate on multiple instance learning, LLM, CV, and Generative Models.</li>
+    <li>📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.</li>
+  </ul>
+  <h3>:fire: My Stats :</h3>
+  <div id="profile" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt=""
+  </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)]
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)]
+
+
