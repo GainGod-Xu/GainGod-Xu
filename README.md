@@ -27,12 +27,15 @@
     <li>📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.</li>
   </ul>
   <h3>:fire: My Stats :</h3>
-  <div id="profile" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats"/>
-  <br>
-  <a href="https://github.com/GainGod-Xu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  </a>
+  <div id="stats" align="center">
+  <div style="display: inline-block; transform: scale(0.7);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats"/>
+  </div>
+  <div style="display: inline-block; transform: scale(0.7);">
+    <a href="https://github.com/GainGod-Xu">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+    </a>
+  </div>
   </div>
 
   
