@@ -23,5 +23,5 @@ a research fellow at department of medicine at Harvard Medical School & Brigham 
 ### :fire: My Stats :
 
 <div id="profile" align="center">
-  <img src="[https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue](https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu)" alt=""
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt=""
 </div>
