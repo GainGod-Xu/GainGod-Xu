@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?user=tcYaFAcAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-brown?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-grey?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
