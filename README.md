@@ -13,9 +13,8 @@ Feel free to contact me for research collaborations.
 Homepage: 
 
 ## Stats
-![](https://github.com/GainGod-Xu/github-stats/blob/main/overview.svg)
-![](https://github.com/GainGod-Xu/github-stats/blob/main/languages.svg)
-![](https://github-profile-trophy.vercel.app/?username=GainGod-Xu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)
+
 
 ## Follow Me
 
