@@ -29,9 +29,10 @@
   <h3>:fire: My Stats :</h3>
   <div id="profile" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt=""
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)]
   </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark)]
+  
 </div>
 
 
