@@ -2,38 +2,30 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+## About me
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hao-xu-62bb11169/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=tcYaFAcAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-red?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
-  </a>
-</div>
+I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
 
-<div id="profile" align="center">
-  <img src="https://komarev.com/ghpvc/?username=GainGod-Xu&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+I obtained my Ph.D. degree in Computational and Organic Chemistry from Boston College in Dec. 2022. I also got an M.S. degree in Computer Science (OMSCS) from Georgia Tech in Aug. 2022, as well as M.S. degress in Computational Chemistry from Southern Methodist University in May 2017.
 
-<div align="left">
-  <h3>:man_farmer: About Me: </h3>
-  <p>
-    I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
-  </p>
-  <ul>
-    <li>🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery and medical image diagnosis.</li>
-    <li>🌱 I’m also learning multiple instance learning on whole slide images.</li>
-    <li>👯 I’m looking to collaborate on multiple instance learning, LLM, CV, and Generative Models.</li>
-    <li>📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.</li>
-  </ul>
-  <h3>:fire: My Stats:</h3>
-  <div id="stats" align="center" style="display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu" alt="GitHub Streak Stats" style="width: 50%;"/>
-    <br>
-    <a href="https://github.com/GainGod-Xu">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 30%;"/>
-    </a>
-  </div>
-</div>
+- 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery and medical image diagnosis.
+- 🌱 I’m also learning multiple instance learning on whole slide images.
+-  📫 How to reach me: please find me through email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a> or WeChat: gaingod66.
+Feel free to contact me for research collaborations.
+
+Homepage: 
+
+## Stats
+![](https://github.com/GainGod-Xu/github-stats/blob/main/overview.svg)
+![](https://github.com/GainGod-Xu/github-stats/blob/main/languages.svg)
+![](https://github-profile-trophy.vercel.app/?username=GainGod-Xu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
+
+## Follow Me
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
+
+[linkedin]: https://www.linkedin.com/in/hao-xu-62bb11169/
+[googlescholar]: https://scholar.google.com/citations?user=tcYaFAcAAAAJ&hl=en
+
 
