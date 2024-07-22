@@ -20,3 +20,5 @@ a research fellow at department of medicine at Harvard Medical School & Brigham 
 - 👯 I’m looking to collaborate on multiple instance learning.
 - 📫 How to reach me: please find me through email: haoxu0303@gmail.com or wechat:gaingod66.
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=GainGod-Xu
