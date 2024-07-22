@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">
-  <h3><i class='fas fa-user-graduate'></i> About Me: </h3>
+  <h3>:man_farmer: About Me: </h3>
   <p>
     I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
   </p>
@@ -37,5 +37,3 @@
   </div>
 </div>
 
-<!-- Font Awesome script for icons -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
