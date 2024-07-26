@@ -21,8 +21,8 @@ I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical 
 
 ## Follow Me
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
 
 [linkedin]: https://www.linkedin.com/in/hao-xu-62bb11169/
 [googlescholar]: https://scholar.google.com/citations?user=tcYaFAcAAAAJ&hl=en
