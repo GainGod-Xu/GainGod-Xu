@@ -13,6 +13,7 @@ I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical 
 - Ph.D. degree in Computational and Organic Chemistry from Boston College in 12/2022. 
 - M.S. degree in Computer Science from Georgia Tech in 08/2022. 
 - M.S. degree in Computational Chemistry from Southern Methodist University in 05/2017.
+- B.S. degree in Chemistry and B.E. degree in Finance from China Agricultural University in 07/2015. 
 
 ## Stats
 
