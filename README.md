@@ -4,8 +4,7 @@
 ### Current Position
 I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
 
-- 🔭 I’m currently working on AI4Science projects, such as generative models for drug discovery.
-- 🌱 I’m also learning multiple instance learning on whole slide images for cancer diagnosis.
+- 🔭 I’m working on AI4Science and AI4Health projects.
 - 📫 Feel free to contact me for research collaborations: email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a>.
 
 ### Past Experiences
