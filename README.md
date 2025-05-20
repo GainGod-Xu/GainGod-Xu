@@ -15,7 +15,6 @@ I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical 
 - B.S. degree in Chemistry and B.E. degree in Finance from China Agricultural University in 07/2015. 
 
 ## Stats
-[![Hao Xu's GitHub stats](https://streak-stats.demolab.com/?user=GainGod-Xu)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GainGod-Xu&&layout=compact)](https://github.com/GainGod-Xu&/github-readme-stats)
 
 ## Follow Me
