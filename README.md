@@ -2,7 +2,7 @@
 ## About me
 
 ### Current Position
-I am Hao Xu, a research fellow at the Department of Medicine at Harvard Medical School & Brigham and Women's Hospital.
+I am Hao Xu, a research fellow at the Department of Medicine at Brigham and Women's Hospital, Harvard Medical School.
 
 - 🔭 I’m working on AI4Science and AI4Health projects.
 - 📫 Feel free to contact me for research collaborations: email at <a href="mailto:haoxu0303@gmail.com">haoxu0303@gmail.com</a>.
